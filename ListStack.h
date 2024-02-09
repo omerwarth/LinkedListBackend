@@ -1,8 +1,5 @@
 /*
  * Name: Owen Merwarth
- * Date Submitted: 1/24/2024
- * Lab Section: 003
- * Assignment Name: Lab 1: Linked List Based Stacks and Queues
  */
 
 #pragma once
